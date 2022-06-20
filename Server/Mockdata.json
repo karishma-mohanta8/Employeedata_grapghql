@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "Name": "Phineas Franciottoi",
+        "email": "pfranciottoi0@hostgator.com",
+        "designation": "Java developer",
+        "experience": "2"
+    },
+    {
+        "id": 2,
+        "Name": "Michel Franciottoi",
+        "email": "pfranciottoi0@hostgator.com",
+        "designation": "React Developer",
+        "experience": "4"
+    },
+    {
+        "id": 3,
+        "Name": "Lily Franciottoi",
+        "email": "pfranciottoi0@hostgator.com",
+        "designation": "Manager",
+        "experience": "12"
+    }
+]
