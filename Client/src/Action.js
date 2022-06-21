@@ -1,0 +1,4 @@
+export const ADD_EMPLOYEE = 'ADD_EMPLOYEE'
+export const DELETE_EMPLOYEE = 'DELETE_EMPLOYEE'
+export const OPEN_POPUP = 'OPEN_POPUP'
+export const CLOSE_POPUP = 'CLOSE_POPUP'
